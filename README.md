@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [CLICK HERE 🚀](https://github.com/ubed90/pricing-component-with-toggle)
-- Live Site URL: [CLICK HERE 🚀](https://your-live-site-url.com)
+- Live Site URL: [CLICK HERE 🚀](https://ubed90.github.io/pricing-component-with-toggle)
 
 ## My process
 
